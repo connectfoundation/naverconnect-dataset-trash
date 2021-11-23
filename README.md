@@ -2,7 +2,7 @@ This dataset is created by NAVER Connect Foundation.
 
 # Recycle Trash Dataset
 
-![](img/animation.gif)
+<img src='img/animation.gif' width=600 height="800"/>
 
 Recycle Trash Dataset is a dataset that collects **indoor and outdoor** garbage photos.  
 It consists of **21818 photos and annotation data for 107935 objects**.  
@@ -31,34 +31,34 @@ Total | 107935 | 100%
 ## Samples
 
 ### General trash
-![](img/1.jpg)
+<img src='img/1.jpg' width=800 height="600"/>
 
 ### Metal
-![](img/2.jpg)
+<img src='img/2.jpg' width=600 height="800"/>
 
 ### Plastic bag
-![](img/3.jpg)
+<img src='img/3.jpg' width=600 height="800"/>
 
 ### Glass
-![](img/4.jpg)
+<img src='img/4.jpg' width=800 height="600"/>
 
 ### Plastic
-![](img/5.jpg)
+<img src='img/5.jpg' width=600 height="800"/>
 
 ### Styrofoam
-![](img/6.jpg)
+<img src='img/6.jpg' width=600 height="800"/>
 
 ### Paper
-![](img/7.jpg)
+<img src='img/7.jpg' width=800 height="600"/>
 
 ### Clothing
-![](img/8.jpg)
+<img src='img/8.jpg' width=600 height="800"/>
 
 ### Paper pack
-![](img/9.jpg)
+<img src='img/9.jpg' width=600 height="800"/>
 
 ### Battery
-![](img/10.jpg)
+<img src='img/10.jpg' width=800 height="600"/>
 
 
 ## Dataset Structure
